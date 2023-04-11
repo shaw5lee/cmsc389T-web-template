@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Optima;
-  background-color: #FCF7FF;
+  background-color: #f1faee;
 }
 
 .center {
@@ -23,15 +23,15 @@ header {
   left: 0;
   width: 100%;
   z-index: 1000;
-  background: #655560;
+  background: #1d3557;
   padding: 2%;
   text-align: center;
 
 }
 
 .panel {
-  background-color: #655560;
-  color: #FCF7FF;
+  background-color: #1d3557;
+  color: #f1faee;
 
   width: 100%;
   height: 30vh;
@@ -50,7 +50,7 @@ header {
 
 footer {
   display: flex;
-  background-color: #655560;
+  background-color: #1d3557;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -64,7 +64,7 @@ footer {
 }
 
 .leftFooter {
-  color: #655560;
+  color: #1d3557;
   font-size: 14px;
   margin: auto;
   padding-right: 30%;
@@ -73,7 +73,7 @@ footer {
 }
 
 .rightFooter {
-  color: #655560;
+  color: #1d3557;
   font-size: 120%;
   color: white;
 
@@ -97,7 +97,7 @@ a:active {
 }
 
 .rightFooterr {
-  color: #655560;
+  color: #1d3557;
   font-size: 120%;
   padding-right: 10%;
   color: white;
@@ -137,21 +137,21 @@ section {
 }
 
 section:nth-child(1) {
-  color: #e0ffff;
-  background-color: #e0ffff;
+  color: #a8dadc;
+  background-color: #a8dadc;
 
 }
 
 section:nth-child(2) {
 
-  background-color: #FCF7FF;
+  background-color: #f1faee;
 
 
 }
 
 section:nth-child(3) {
 
-  background: #C4CAD0
+  background: #457b9d
 }
 
 h2 {
@@ -167,13 +167,13 @@ h3 {
 /* Add a black background color to the top navigation */
 .topnav {
   overflow: hidden;
-  background-color: #655560;
+  background-color: #1d3557;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
   float: right;
-  color: #f2f2f2;
+  color: #f1faee;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -183,12 +183,12 @@ h3 {
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ddd;
-  color: black;
+  color: #e63946;
 }
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #878C8F;
+  background-color: #e63946;
   color: white;
 }
 
@@ -212,7 +212,7 @@ h3 {
 .same-line {
   display: flex;
   justify-content: space-between;
-  background-color: #655560;
+  background-color: #1d3557;
 
 }
 
