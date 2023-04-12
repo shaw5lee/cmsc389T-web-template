@@ -3,7 +3,7 @@
 Modification: Color palette
 
 
-website link: https://shaw5lee.github.io/cmsc389T-web-template/
-
+github pages link: https://shaw5lee.github.io/cmsc389T-web-template/
+terpconnect link: cmsc389T-web-template
 
 1d3557
