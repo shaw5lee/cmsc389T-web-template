@@ -1,4 +1,4 @@
-name: update-workflow
+name: delete-workflow
 on:
   workflow_dispatch:
 jobs:
