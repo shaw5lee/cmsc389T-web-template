@@ -15,4 +15,4 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
             cd /pub/arider
-            git clone shaw5lee/cmsc389T-web-template
+            git clone git@github.com:shaw5lee/cmsc389T-web-template.git
